@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "Despre"
-excerpt: "Vrei să înveți Esperanto? Esperanto România îți poate da o mână de ajutor."
+excerpt: "Vrei sa inveti Esperanto? Esperanto Romania iti poate da o mana de ajutor."
 layouts_gallery:
   - url: mm-layout-splash.png
     image_path: mm-layout-splash.png
