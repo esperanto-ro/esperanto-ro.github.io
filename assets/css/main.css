@@ -13,4 +13,5 @@ a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px
   line-height: 1.5rem;
   background-size: 2.4rem;
   background-position: left center;
+  text-decoration: none;
 }
