@@ -36,7 +36,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
@@ -76,9 +76,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Serghei Ignat"
-  avatar           : "bio-photo.jpg"
-  bio              : "CEO @ Esperanto Romania"
+  name             : "Esperanto Romania"
+  avatar           : "bio-photo.svg"
+  bio              : "Esperanto Romania"
   location         : "Romania"
   email            :
   uri              :
@@ -88,7 +88,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/seriojaignat
+  github           : https://github.com/esperanto-ro
   google_plus      :
   keybase          :
   instagram        :
