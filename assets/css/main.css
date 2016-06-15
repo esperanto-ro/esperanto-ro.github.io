@@ -15,3 +15,6 @@ a:focus{outline:thin dotted #f89406;outline:5px auto #f89406;outline-offset:-2px
   background-position: left center;
   text-decoration: none;
 }
+.masthead__menu-item > .site-title-in-header:hover {
+  line-height: 2.5rem;
+}
