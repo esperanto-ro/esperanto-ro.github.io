@@ -12,6 +12,19 @@
   {% capture cta_path %}{{ page.header.cta_url | prepend: base_path }}{% endcapture %}
 {% endif %}
 
+{% if page.header.cta_second_url contains "://" %}
+  {% capture cta_second_path %}{{ page.header.cta_second_url }}{% endcapture %}
+{% else %}
+  {% capture cta_second_path %}{{ page.header.cta_second_url | prepend: base_path }}{% endcapture %}
+{% endif %}
+
+{% if page.header.cta_third_url contains "://" %}
+  {% capture cta_third_path %}{{ page.header.cta_third_url }}{% endcapture %}
+{% else %}
+  {% capture cta_third_path %}{{ page.header.cta_third_url | prepend: base_path }}{% endcapture %}
+{% endif %}
+
+
 {% if page.header.overlay_image contains "://" %}
   {% capture overlay_img_path %}{{ page.header.overlay_image }}{% endcapture %}
 {% elsif page.header.overlay_image %}
@@ -44,8 +57,18 @@
       {% if site.read_time and page.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
-      {% if page.header.cta_url %}
-        <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label }}</a></p>
+      {% if page.header.cta_url or page.header.cta_second_url or page.header.cta_third_url %}
+        <p>
+        {% if page.header.cta_url %}
+          <a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label }}</a>
+        {% endif %}
+        {% if page.header.cta_second_url %}
+          <a href="{{ cta_second_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_second_label | default: site.data.ui-text[site.locale].more_label }}</a>
+        {% endif %}
+        {% if page.header.cta_third_url %}
+          <a href="{{ cta_third_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_third_label | default: site.data.ui-text[site.locale].more_label }}</a>
+        {% endif %}
+        </p>
       {% endif %}
     </div>
   {% else %}
