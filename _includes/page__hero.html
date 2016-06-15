@@ -67,7 +67,7 @@
           <!-- <a href="{{ cta_second_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_second_label | default: site.data.ui-text[site.locale].more_label }}</a> -->
         {% endif %}
         {% if page.header.cta_third_url %}
-          <a href="{{ cta_third_path }}">{{ page.header.cta_third_label | default: site.data.ui-text[site.locale].more_label }}</a>
+          <a href="{{ cta_third_path }}" style="white-space: nowrap">{{ page.header.cta_third_label | default: site.data.ui-text[site.locale].more_label }}</a>
           <!-- <a href="{{ cta_third_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_third_label | default: site.data.ui-text[site.locale].more_label }}</a> -->
         {% endif %}
         </p>
