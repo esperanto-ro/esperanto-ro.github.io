@@ -31,10 +31,10 @@
     <div class="wrapper">
       <h1 class="page__title" itemprop="headline">
         {% if paginator %}
-          Esperanto {% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page }} {{ paginator.page }}{% endunless %}
+          <i>Esperanto</i> {% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page }} {{ paginator.page }}{% endunless %}
           <!-- {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page }} {{ paginator.page }}{% endunless %} -->
         {% else %}
-          Esperanto
+          <i>Esperanto</i>
           <!-- {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }} -->
         {% endif %}
       </h1>
