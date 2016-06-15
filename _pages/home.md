@@ -5,10 +5,10 @@ date:
 header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
+  cta_label: "<i class='fa fa-book'></i> Start Learning!"
+  cta_url: "http://en.lernu.net/"
   caption:
-excerpt: 'is a constructed international auxiliary language. It is the most widely spoken constructed language in the world.[6] The Polish ophthalmologist L. L. Zamenhof published the first book detailing Esperanto, the Unua Libro, on 26 July 1887. The name of Esperanto derives from Doktoro Esperanto ("Esperanto" translates as "one who hopes"), the pseudonym under which Zamenhof published Unua Libro.<br /> <small><i> - <b>Wikipedia</b>, The Free Encyclopedia</i></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'Esperanto is a constructed international auxiliary language. It is the most widely spoken constructed language in the world.[6] The Polish ophthalmologist L. L. Zamenhof published the first book detailing Esperanto, the Unua Libro, on 26 July 1887. The name of Esperanto derives from Doktoro Esperanto ("Esperanto" translates as "one who hopes"), the pseudonym under which Zamenhof published Unua Libro.<br /> <small><i> - <b>Wikipedia</b>, The Free Encyclopedia</i></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
@@ -31,7 +31,7 @@ feature_row:
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Connecting people!'
+  - excerpt: 'Esperanto <i class="fa fa-star"></i> Connecting people!'
 #  - excerpt: 'Get notified when we add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
 
