@@ -38,6 +38,6 @@ intro:
 #  - excerpt: 'Get notified when we add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 
 <!-- {% include feature_row %} -->
