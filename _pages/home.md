@@ -8,7 +8,10 @@ header:
   cta_label: "<i class='fa fa-book'></i> &nbsp;Învață Esperanto acum!"
   cta_url: "http://en.lernu.net/"
   caption:
-excerpt: 'Esperanto (<i>"cel care speră"</i>) este cea mai răspândită dintre limbile artificiale.Limba a fost lansată în 1887 de către Ludovic Lazar Zamenhof (1859 - 1917) după mai bine de 10 ani de muncă, pentru a servi ca limbă internațională auxiliară, o a doua limbă pentru fiecare.<br /> <a href="https://ro.wikipedia.org/wiki/Esperanto" target="_blank" style="text-decoration: none"><small><i> - <b>Wikipedia</b> - Encyclopedia Liberă</i></small></a><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'Esperanto (<i>"cel care speră"</i>) este cea mai răspândită dintre limbile artificiale.Limba a fost lansată în 1887 de către Ludovic Lazar Zamenhof (1859 - 1917) după mai bine de 10 ani de muncă, pentru a servi ca limbă internațională auxiliară, o a doua limbă pentru fiecare.<br /> <a href="https://ro.wikipedia.org/wiki/Esperanto" target="_blank" style="text-decoration: none"><small><i> - <b>Wikipedia</b> - Encyclopedia Liberă</i></small></a><br /><br />
+<!--
+{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=esperanto-ro&repo=esperanto-ro.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+-->
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
