@@ -6,11 +6,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
   cta_label: "<i class='fa fa-book'></i> &nbsp;Învață Esperanto acum!"
-  cta_url: "https://account.paydemic.com/buy/RJVYCVXGIFA2FJR5ENM3O3VA3Q"
+  cta_url: "https://account.paydemic.com/buy/TFJB77ZHT5AJZDOKKYJCZV7DPQ"
   cta_second_label: "Învață Esperanto acum!"
-  cta_second_url: "https://account.paydemic.com/buy/RJVYCVXGIFA2FJR5ENM3O3VA3Q"
+  cta_second_url: "https://account.paydemic.com/buy/TFJB77ZHT5AJZDOKKYJCZV7DPQ"
   cta_third_label: "<i class='fa fa-book'></i> &nbsp;Învață Esperanto acum!"
-  cta_third_url: "https://account.paydemic.com/buy/RJVYCVXGIFA2FJR5ENM3O3VA3Q"
+  cta_third_url: "https://account.paydemic.com/buy/TFJB77ZHT5AJZDOKKYJCZV7DPQ"
   caption:
 excerpt: 'Esperanto (<i>"cel care speră"</i>) este cea mai răspândită dintre limbile artificiale.Limba a fost lansată în 1887 de către Ludovic Lazar Zamenhof (1859 - 1917) după mai bine de 10 ani de muncă, pentru a servi ca limbă internațională auxiliară, o a doua limbă pentru fiecare.<br /> <a href="https://ro.wikipedia.org/wiki/Esperanto" target="_blank" style="text-decoration: none"><small><i> - <b>Wikipedia</b> - Encyclopedia Liberă</i></small></a><br /><br />
 <!--
